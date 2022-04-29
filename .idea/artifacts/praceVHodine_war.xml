@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="praceVHodine:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>praceVHodine</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="praceVHodine-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="praceVHodine:war exploded" />
+    </root>
+  </artifact>
+</component>
