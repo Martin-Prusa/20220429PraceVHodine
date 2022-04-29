@@ -1,11 +1,12 @@
-com/example/pracevhodine/ApplicationConfig.class
 com/example/pracevhodine/resources/ChessResource.class
+com/example/pracevhodine/filters/CorsFilter.class
 com/example/pracevhodine/models/Gender.class
-com/example/pracevhodine/models/Game.class
 com/example/pracevhodine/resources/GamesResource.class
-com/example/pracevhodine/resources/FootballResource.class
 com/example/pracevhodine/models/ChessPlayer.class
 com/example/pracevhodine/services/GamesService.class
 com/example/pracevhodine/models/PlayersGroup.class
+com/example/pracevhodine/ApplicationConfig.class
+com/example/pracevhodine/models/Game.class
+com/example/pracevhodine/resources/FootballResource.class
 com/example/pracevhodine/services/ChessService.class
 com/example/pracevhodine/services/FootballService.class
